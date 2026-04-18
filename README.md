@@ -27,6 +27,3 @@ python · js/ts · git · figma
 
 ---
 
-## links
-- linkedin → [link]  
-- portfolio → [link]
